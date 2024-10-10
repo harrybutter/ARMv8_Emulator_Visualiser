@@ -1,5 +1,7 @@
 ### C Project Extension (Emulator Visualiser)
 
+Co-workers: @caleb-kan, @JeffreyCheung0429, @RyanFok8  
+
 #### Running the Visualiser:
 
 ##### Windows
@@ -35,3 +37,5 @@ gcc *.c ../src/emulator_decode.c ../src/emulator_execute.c ../src/emulator_instr
 6. Drag and drop your assembly file into the application
 7. Click on `Step` to execute and see the next instruction
 8. Click on `Memory` to view the memory state
+
+This README was lastly edited by @JeffreyCheung0429
